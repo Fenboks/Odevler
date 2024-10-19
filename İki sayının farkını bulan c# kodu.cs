@@ -9,4 +9,3 @@ int sayı2 = Convert.ToInt32(Console.ReadLine());
 fark = sayı1 - sayı2;
 
 Console.WriteLine("Sonuç:"+fark);
-

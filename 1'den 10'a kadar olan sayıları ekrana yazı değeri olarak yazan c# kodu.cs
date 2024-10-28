@@ -1,6 +1,5 @@
 ﻿while (true)
 {
-
     Console.WriteLine("Lütfen 1 ile 10 arasında bir değer girin.");
     int değer = Convert.ToInt32(Console.ReadLine());
 

@@ -5,7 +5,6 @@ if (sayı % 2 == 0)
 {
     Console.WriteLine("Girdiğiniz sayı çiftir.");
 }
-
 else
 {
     Console.WriteLine("Girdiğiniz sayı tektir.");

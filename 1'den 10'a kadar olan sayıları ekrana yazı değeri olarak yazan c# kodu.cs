@@ -41,6 +41,4 @@
             Console.WriteLine("Geçersiz değer.");
             break;
     }
-
 }
-
